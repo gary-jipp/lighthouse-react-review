@@ -1,6 +1,6 @@
 # React Review
 
-- [ ] Create a React App (Vite): cleanup, path alias, etc
+- [ ] Clean React App (Vite)
 - [ ] React basics (components, functions, devtools, jsx, props)
 - [ ] Component Render
 - [ ] Review of State
