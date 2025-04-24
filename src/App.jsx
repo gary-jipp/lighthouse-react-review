@@ -4,7 +4,7 @@ export default function() {
 
   return (
     <div className="App">
-      <div>Hello React World</div>
+      <h1>Hello React World</h1>
     </div>
   );
 };
